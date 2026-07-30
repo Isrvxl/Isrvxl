@@ -14,7 +14,7 @@ Full Stack Developer (Next.js · React · TypeScript) con base en QA — constru
 
 **Proyectos en producción**
 - [Vertex360](https://vertex360.cl) — plataforma de inscripción de una escuela de artes marciales mixtas
-- [Centro Calm](https://centrocalm.cl) — plataforma de inscripción de un centro de artes marciales y bienestar *(próximamente en vivo)*
+- [Centro Calm](https://centrocalm.cl) — plataforma de inscripción de un centro de artes marciales y bienestar
 
 **Conectemos**
 [LinkedIn](https://www.linkedin.com/in/israelverdugo/)
