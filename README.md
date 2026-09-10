@@ -1,6 +1,6 @@
 ### Israel Verdugo — Full Stack Developer
 
-Full Stack Developer (Next.js · React · TypeScript) con base en QA — construyo pensando en producción, no solo en la demo.
+Full Stack Developer (Next.js · React · TypeScript) con base en QA — calidad desde el código hasta el resultado.
 
 📍 Santiago, Chile · Español (nativo) · Inglés (C2)
 
